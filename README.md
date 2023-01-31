@@ -1,4 +1,4 @@
-## Hey! My name is Jessica de Oliveira but u can call me jeje 🖐️
+## Hey! My name is Jessica de Oliveira 🖐️
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jessicaakemi)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eaijessicao/)
