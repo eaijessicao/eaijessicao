@@ -1,6 +1,6 @@
 # Hey! I'm Jéssica de Oliveira 🖐️
 
-Hello! I'm Jéssica, 22 years old, Information Systems student at the Federal University of Alagoas (UFAL). I've been involved with technology since I was young, fixing smartphones and computers for friends and neighbors. I have around 1 year of experience in web development — I worked at **Golab** for about 7 months, where I built hands-on knowledge in HTML, CSS, JavaScript, MWTPL, and SEO.
+Hello! I'm Jéssica, 25 years old, Information Systems student at the Federal University of Alagoas (UFAL). I've been involved with technology since I was young, fixing smartphones and computers for friends and neighbors. I have around 1 year of experience in web development — I worked at **Golab** for about 7 months, where I built hands-on knowledge in HTML, CSS, JavaScript, MWTPL, and SEO.
 
 Currently, I'm deepening my skills in **Python**, **databases**, and **AI**, and looking for an internship opportunity to grow professionally. I'm a fast learner with good communication, always willing to take on new challenges and contribute where I'm needed.
 
