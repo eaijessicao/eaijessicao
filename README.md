@@ -1,18 +1,63 @@
-## Hey! I'm Jessica de Oliveira 🖐️
+```markdown
+# Hi, I'm Jéssica Oliveira 👋
 
-Hello, I'm Jessica and I'm 22 years old. I've been working with technology since I was young, fixing smartphones and computers for friends and neighbors. I have around 1 year of experience in web development. I worked for a company called Golab for about 7 months, where I gained knowledge in HTML, CSS, Javascript, MWTPL, and SEO. Currently, I'm studying Python and looking for an internship opportunity to improve my skills. I'm a fast learner with good communication skills, always willing to learn new things and help out where needed.
-<br>
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jessicaakemi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eaijessicao/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Jessicaakemi)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-de-oliveira-76374a25a/)
+🎓 Information Systems student at the Federal University of Alagoas (UFAL)  
+💡 Interested in Artificial Intelligence, Web Development, Databases, SEO, LGPD and technology applied to real-world solutions.
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=eaijessicao&show_icons=true&theme=dracula&count_private=true)
+---
 
-## Skills
+## 🚀 About Me
 
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,php,python,mysql,seo)](https://skills.thijs.gg)
-  
-          
+I am passionate about technology, innovation and problem-solving.  
+I have experience and interest in software development, database management, artificial intelligence, web optimization and data governance.
 
+I am always learning and looking for opportunities to build projects that create positive impact.
 
+---
+
+## 🛠️ Technologies & Skills
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="SQL/MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+</p>
+
+**Main skills:**  
+Python · JavaScript · PHP · SQL · SEO · Web Development · Databases
+
+---
+
+## 📚 Areas of Interest
+
+- Artificial Intelligence
+- Web Development
+- Databases
+- SEO and Web Optimization
+- Data Governance
+- LGPD and Privacy
+- Software Engineering
+
+---
+
+## 📊 GitHub Stats
+
+![Jéssica's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jéssica%20Oliveira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jessica-de-oliveira-76374a25a/)
+
+[![Email](https://img.shields.io/badge/Email-jessicasdeoliveira1921%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jessicasdeoliveira1921@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
+```
